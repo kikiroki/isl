@@ -1,0 +1,740 @@
+{
+  "regular-event-1": {
+    "category": "regular-event-1",
+    "name": "가족 일기",
+    "schedule": [
+      {
+        "start": ["2026-03-08", "2026-04-29"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-2": {
+    "category": "regular-event-1",
+    "name": "동료 일기",
+    "schedule": [
+      {
+        "start": ["2026-04-03", "2026-05-19"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-3": {
+    "category": "regular-event-1",
+    "name": "용의 마을 아레나",
+    "schedule": [
+      {
+        "start": ["2026-03-25", "2026-04-08", "2026-05-13"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 5,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-4": {
+    "category": "regular-event-1",
+    "name": "용의 마을 아레나: 사역마 테마 경기",
+    "schedule": [
+      {
+        "start": ["2026-04-29"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 5,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-5": {
+    "category": "regular-event-2",
+    "name": "물약공방",
+    "schedule": [
+      {
+        "start": ["2026-03-16", "2026-03-22"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-6": {
+    "category": "regular-event-2",
+    "name": "멍멍 베이커리",
+    "schedule": [
+      {
+        "start": ["2026-03-19", "2026-03-28"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-7": {
+    "category": "regular-event-2",
+    "name": "몽실몽실 농장",
+    "schedule": [
+      {
+        "start": "2026-03-25",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-8": {
+    "category": "regular-event-3",
+    "name": "❓악덕상인 카드",
+    "description": "반복 일정 확인중입니다.",
+    "schedule": [
+      {
+        "start": "2026-03-22",
+        "startTime": "00:00",
+        "end": "2026-05-19",
+        "endTime": "22:00",
+        "duration": 7,
+        "repeat": 26,
+        "timed": true
+      },
+      {
+        "start": "2026-06-04",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "repeat": 26,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-9": {
+    "category": "regular-event-3",
+    "name": "❓가자! 낚시하러!",
+    "description": "반복 일정 확인중입니다.",
+    "schedule": [
+      {
+        "start": ["2026-03-28"],
+        "startTime": "00:00",
+        "end": "2026-05-30",
+        "endTime": "22:00",
+        "duration": 6,
+        "repeat": 26,
+        "timed": true
+      }
+    ]
+  },
+  "regular-ranking-1": {
+    "category": "regular-ranking-1",
+    "name": "가족 친밀도 랭킹",
+    "schedule": [
+      {
+        "start": "2026-03-22",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-ranking-2": {
+    "category": "regular-ranking-1",
+    "name": "가족 가호력 랭킹",
+    "schedule": [
+      {
+        "start": "2026-03-16",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-ranking-3": {
+    "category": "regular-ranking-1",
+    "name": "마을 수익 랭킹",
+    "schedule": [
+      {
+        "start": "2026-03-19",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-ranking-4": {
+    "category": "regular-ranking-1",
+    "name": "동료 전투력 랭킹",
+    "schedule": [
+      {
+        "start": "2026-03-13",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-ranking-5": {
+    "category": "regular-ranking-1",
+    "name": "연회 인기도 랭킹",
+    "schedule": [
+      {
+        "start": "2026-03-25",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-ranking-6": {
+    "category": "regular-ranking-2",
+    "name": "상회 영향력 랭킹",
+    "schedule": [
+      {
+        "start": "2026-03-13",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-ranking-7": {
+    "category": "regular-ranking-2",
+    "name": "길드 경험치 랭킹",
+    "schedule": [
+      {
+        "start": "2026-03-19",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-ranking-8": {
+    "category": "regular-ranking-2",
+    "name": "학교 임무",
+    "schedule": [
+      {
+        "start": "2026-03-22",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-ranking-9": {
+    "category": "regular-ranking-2",
+    "name": "수정 소비 랭킹",
+    "schedule": [
+      {
+        "start": "2026-03-25",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-10": {
+    "category": "regular-ranking-3",
+    "name": "숲속 피크닉",
+    "schedule": [
+      {
+        "start": "2026-03-16",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-11": {
+    "category": "regular-ranking-3",
+    "name": "레슬링 대회",
+    "schedule": [
+      {
+        "start": ["2026-03-19", "2026-03-28"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-12": {
+    "category": "regular-ranking-3",
+    "name": "별밤 아래 캠핑",
+    "schedule": [
+      {
+        "start": "2026-03-22",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "regular-event-13": {
+    "category": "regular-ranking-3",
+    "name": "근육 빵빵 헬스장",
+    "schedule": [
+      {
+        "start": "2026-03-25",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 3,
+        "repeat": 15,
+        "timed": true
+      }
+    ]
+  },
+  "familiar-event-1": {
+    "category": "familiar-event",
+    "name": "전설 사역마",
+    "schedule": [
+      {
+        "start": "2026-04-27",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "timed": true
+      }
+    ]
+  },
+  "familiar-event-2": {
+    "category": "familiar-event",
+    "name": "사역마 각성",
+    "schedule": [
+      {
+        "start": "2026-04-27",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "timed": true
+      }
+    ]
+  },
+  "sale-event-1": {
+    "category": "sale-event",
+    "name": "한정 코스튬",
+    "schedule": [
+      {
+        "start": "2026-04-01",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 14,
+        "timed": true
+      },
+      {
+        "start": ["2026-04-22", "2026-05-22"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 10,
+        "timed": true
+      }
+    ]
+  },
+  "sale-event-2": {
+    "category": "sale-event",
+    "name": "크로우 극장",
+    "schedule": [
+      {
+        "start": "2026-05-04",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "timed": true
+      }
+    ]
+  },
+  "special-event-1": {
+    "category": "collabo-event",
+    "name": "수인 마을 축제",
+    "schedule": [
+      {
+        "start": "2026-03-15",
+        "startTime": "00:00",
+        "endTime": "24:00",
+        "duration": 14,
+        "timed": true
+      }
+    ]
+  },
+  "special-event-2": {
+    "category": "collabo-event",
+    "name": "술의 신과 미주",
+    "schedule": [
+      {
+        "start": "2026-03-15",
+        "startTime": "00:00",
+        "endTime": "24:00",
+        "duration": 14,
+        "timed": true
+      }
+    ]
+  },
+  "special-event-3": {
+    "category": "collabo-event",
+    "name": "선녀의 축복 기원제",
+    "schedule": [
+      {
+        "start": "2026-04-01",
+        "startTime": "00:00",
+        "endTime": "24:00",
+        "duration": 14,
+        "timed": true
+      }
+    ]
+  },
+  "collabo-event-1": {
+    "category": "collabo-event",
+    "name": "산리오 버섯",
+    "schedule": [
+      {
+        "start": "2026-02-20",
+        "startTime": "00:00",
+        "endTime": "24:00",
+        "duration": 21,
+        "timed": true
+      }
+    ]
+  },
+  "collabo-event-2": {
+    "category": "collabo-event",
+    "name": "전생슬 2기",
+    "schedule": [
+      {
+        "start": "2026-05-08",
+        "startTime": "00:00",
+        "endTime": "24:00",
+        "duration": 14,
+        "timed": true
+      }
+    ]
+  },
+  "collabo-event-3": {
+    "category": "collabo-event",
+    "name": "무직전생",
+    "schedule": [
+      {
+        "start": "2026-06-01",
+        "startTime": "00:00",
+        "endTime": "24:00",
+        "duration": 21,
+        "timed": true
+      }
+    ]
+  },
+  "guild-event-1": {
+    "category": "guild-event",
+    "name": "(연습) 공성전",
+    "color": "red-lighten-3",
+    "schedule": [
+      {
+        "start": "2026-03-09",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "repeat": 35,
+        "timed": true
+      }
+    ]
+  },
+  "guild-event-2": {
+    "category": "guild-event",
+    "name": "공성전",
+    "schedule": [
+      {
+        "start": "2026-03-16",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "repeat": 35,
+        "timed": true
+      }
+    ]
+  },
+  "guild-event-3": {
+    "category": "guild-event",
+    "name": "해적 체스",
+    "schedule": [
+      {
+        "start": "2026-03-30",
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "repeat": 35,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-2": {
+    "category": "major-event",
+    "name": "광란의 숲 정화",
+    "schedule": [
+      {
+        "start": ["2026-05-12"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-3": {
+    "category": "major-event",
+    "name": "미궁 개발 이야기",
+    "schedule": [
+      {
+        "start": ["2026-03-12"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "timed": true
+      },
+      {
+        "start": ["2026-05-05"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-4": {
+    "category": "major-event",
+    "name": "알로하! 버블섬",
+    "schedule": [
+      {
+        "start": ["2026-03-21"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "timed": true
+      },
+      {
+        "start": ["2026-05-19"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-5": {
+    "category": "major-event",
+    "name": "세계 무역 축제",
+    "schedule": [
+      {
+        "start": ["2026-04-11"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-6": {
+    "category": "major-event",
+    "name": "카지노 유람선",
+    "schedule": [
+      {
+        "start": ["2026-04-07", "2026-06-09"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-7": {
+    "category": "major-event",
+    "name": "구름의 나라 운동회",
+    "schedule": [
+      {
+        "start": ["2026-05-16"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-8": {
+    "category": "major-event",
+    "name": "세계수 물총 대전",
+    "schedule": [
+      {
+        "start": ["2026-04-04"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-9": {
+    "category": "major-event",
+    "name": "혹한의 원정",
+    "schedule": [
+      {
+        "start": ["2026-04-14"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-10": {
+    "category": "major-event",
+    "name": "라파엘의 무대",
+    "schedule": [
+      {
+        "start": ["2026-04-18"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-11": {
+    "category": "major-event",
+    "name": "토우노 이야기",
+    "schedule": [
+      {
+        "start": ["2026-03-31", "2026-06-05"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-12": {
+    "category": "major-event",
+    "name": "노스랜드 오디세이",
+    "schedule": [
+      {
+        "start": ["2026-05-03"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-13": {
+    "category": "major-event",
+    "name": "탐색하자 미궁 광산",
+    "schedule": [
+      {
+        "start": ["2026-03-18"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "timed": true
+      },
+      {
+        "start": ["2026-05-23"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-14": {
+    "category": "major-event",
+    "name": "황금도시 탐험",
+    "schedule": [
+      {
+        "start": ["2026-03-24", "2026-04-21"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-15": {
+    "category": "major-event",
+    "name": "버섯 휴일",
+    "schedule": [
+      {
+        "start": ["2026-04-14", "2026-05-26"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-16": {
+    "category": "major-event",
+    "name": "잘 먹겠습니다! ~맛있는 던전 모험~",
+    "schedule": [
+      {
+        "start": ["2026-04-28"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-17": {
+    "category": "major-event",
+    "name": "와일드! 지옥 랠리",
+    "schedule": [
+      {
+        "start": ["2026-05-26"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 8,
+        "timed": true
+      }
+    ]
+  },
+  "major-event-18": {
+    "category": "major-event",
+    "name": "대사막 순례",
+    "schedule": [
+      {
+        "start": ["2026-06-03"],
+        "startTime": "00:00",
+        "endTime": "22:00",
+        "duration": 7,
+        "timed": true
+      }
+    ]
+  }
+}
