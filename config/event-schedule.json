@@ -5,10 +5,7 @@
     "schedule": [
       {
         "start": ["2026-03-08", "2026-04-29"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 15,
-        "timed": true
+        "duration": 15
       }
     ]
   },
@@ -18,10 +15,7 @@
     "schedule": [
       {
         "start": ["2026-04-03", "2026-05-19"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 15,
-        "timed": true
+        "duration": 15
       }
     ]
   },
@@ -31,10 +25,7 @@
     "schedule": [
       {
         "start": ["2026-03-25", "2026-04-08", "2026-05-13", "2026-06-03"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 5,
-        "timed": true
+        "duration": 5
       }
     ]
   },
@@ -44,10 +35,7 @@
     "schedule": [
       {
         "start": ["2026-04-29"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 5,
-        "timed": true
+        "duration": 5
       }
     ]
   },
@@ -57,11 +45,8 @@
     "schedule": [
       {
         "start": ["2026-03-16", "2026-03-22"],
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -71,11 +56,8 @@
     "schedule": [
       {
         "start": ["2026-03-19", "2026-03-28"],
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -85,11 +67,8 @@
     "schedule": [
       {
         "start": "2026-03-25",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -100,20 +79,14 @@
     "schedule": [
       {
         "start": "2026-03-22",
-        "startTime": "00:00",
         "end": "2026-05-19",
-        "endTime": "22:00",
         "duration": 7,
-        "repeat": 26,
-        "timed": true
+        "repeat": 26
       },
       {
         "start": "2026-06-04",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 7,
-        "repeat": 26,
-        "timed": true
+        "repeat": 26
       }
     ]
   },
@@ -124,20 +97,14 @@
     "schedule": [
       {
         "start": ["2026-03-28"],
-        "startTime": "00:00",
         "end": "2026-04-28",
-        "endTime": "22:00",
         "duration": 6,
-        "repeat": 26,
-        "timed": true
+        "repeat": 26
       },
       {
         "start": ["2026-06-11"],
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 6,
-        "repeat": 26,
-        "timed": true
+        "repeat": 26
       }
     ]
   },
@@ -147,11 +114,8 @@
     "schedule": [
       {
         "start": "2026-03-22",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -161,11 +125,8 @@
     "schedule": [
       {
         "start": "2026-03-16",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -175,11 +136,8 @@
     "schedule": [
       {
         "start": "2026-03-19",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -189,11 +147,8 @@
     "schedule": [
       {
         "start": "2026-03-13",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -203,11 +158,8 @@
     "schedule": [
       {
         "start": "2026-03-25",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -217,11 +169,8 @@
     "schedule": [
       {
         "start": "2026-03-13",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -231,11 +180,8 @@
     "schedule": [
       {
         "start": "2026-03-19",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -245,11 +191,8 @@
     "schedule": [
       {
         "start": "2026-03-22",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -259,11 +202,8 @@
     "schedule": [
       {
         "start": "2026-03-25",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -273,11 +213,8 @@
     "schedule": [
       {
         "start": "2026-03-16",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -287,11 +224,8 @@
     "schedule": [
       {
         "start": ["2026-03-19", "2026-03-28"],
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -301,11 +235,8 @@
     "schedule": [
       {
         "start": "2026-03-22",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -315,11 +246,8 @@
     "schedule": [
       {
         "start": "2026-03-25",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 3,
-        "repeat": 15,
-        "timed": true
+        "repeat": 15
       }
     ]
   },
@@ -329,10 +257,7 @@
     "schedule": [
       {
         "start": "2026-04-27",
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 7,
-        "timed": true
+        "duration": 7
       }
     ]
   },
@@ -342,10 +267,7 @@
     "schedule": [
       {
         "start": "2026-04-27",
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 7,
-        "timed": true
+        "duration": 7
       }
     ]
   },
@@ -355,17 +277,11 @@
     "schedule": [
       {
         "start": "2026-04-01",
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 14,
-        "timed": true
+        "duration": 14
       },
       {
         "start": ["2026-04-22", "2026-05-22"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 10,
-        "timed": true
+        "duration": 10
       }
     ]
   },
@@ -375,10 +291,7 @@
     "schedule": [
       {
         "start": "2026-05-04",
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 7,
-        "timed": true
+        "duration": 7
       }
     ]
   },
@@ -388,10 +301,8 @@
     "schedule": [
       {
         "start": "2026-03-15",
-        "startTime": "00:00",
         "endTime": "24:00",
-        "duration": 14,
-        "timed": true
+        "duration": 14
       }
     ]
   },
@@ -401,10 +312,8 @@
     "schedule": [
       {
         "start": "2026-03-15",
-        "startTime": "00:00",
         "endTime": "24:00",
-        "duration": 14,
-        "timed": true
+        "duration": 14
       }
     ]
   },
@@ -414,10 +323,8 @@
     "schedule": [
       {
         "start": "2026-04-01",
-        "startTime": "00:00",
         "endTime": "24:00",
-        "duration": 14,
-        "timed": true
+        "duration": 14
       }
     ]
   },
@@ -427,10 +334,8 @@
     "schedule": [
       {
         "start": "2026-02-20",
-        "startTime": "00:00",
         "endTime": "24:00",
-        "duration": 21,
-        "timed": true
+        "duration": 21
       }
     ]
   },
@@ -440,10 +345,8 @@
     "schedule": [
       {
         "start": "2026-05-08",
-        "startTime": "00:00",
         "endTime": "24:00",
-        "duration": 14,
-        "timed": true
+        "duration": 14
       }
     ]
   },
@@ -453,10 +356,8 @@
     "schedule": [
       {
         "start": "2026-06-01",
-        "startTime": "00:00",
         "endTime": "24:00",
-        "duration": 21,
-        "timed": true
+        "duration": 21
       }
     ]
   },
@@ -467,11 +368,8 @@
     "schedule": [
       {
         "start": "2026-03-09",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 7,
-        "repeat": 35,
-        "timed": true
+        "repeat": 35
       }
     ]
   },
@@ -481,11 +379,8 @@
     "schedule": [
       {
         "start": "2026-03-16",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 7,
-        "repeat": 35,
-        "timed": true
+        "repeat": 35
       }
     ]
   },
@@ -495,11 +390,8 @@
     "schedule": [
       {
         "start": "2026-03-30",
-        "startTime": "00:00",
-        "endTime": "22:00",
         "duration": 7,
-        "repeat": 35,
-        "timed": true
+        "repeat": 35
       }
     ]
   },
@@ -509,10 +401,7 @@
     "schedule": [
       {
         "start": ["2026-05-12"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 7,
-        "timed": true
+        "duration": 7
       }
     ]
   },
@@ -522,17 +411,11 @@
     "schedule": [
       {
         "start": ["2026-03-12"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 7,
-        "timed": true
+        "duration": 7
       },
       {
         "start": ["2026-05-05"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -542,17 +425,11 @@
     "schedule": [
       {
         "start": ["2026-03-21"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 7,
-        "timed": true
+        "duration": 7
       },
       {
         "start": ["2026-05-19"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -562,10 +439,7 @@
     "schedule": [
       {
         "start": ["2026-04-11"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -575,10 +449,7 @@
     "schedule": [
       {
         "start": ["2026-04-07", "2026-06-09"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -588,10 +459,7 @@
     "schedule": [
       {
         "start": ["2026-05-16"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -601,10 +469,7 @@
     "schedule": [
       {
         "start": ["2026-04-04"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -614,10 +479,7 @@
     "schedule": [
       {
         "start": ["2026-04-14"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -627,10 +489,7 @@
     "schedule": [
       {
         "start": ["2026-04-18", "2026-06-12"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -640,10 +499,7 @@
     "schedule": [
       {
         "start": ["2026-03-31", "2026-06-05"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -653,10 +509,7 @@
     "schedule": [
       {
         "start": ["2026-05-03"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 7,
-        "timed": true
+        "duration": 7
       }
     ]
   },
@@ -666,17 +519,11 @@
     "schedule": [
       {
         "start": ["2026-03-18"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 7,
-        "timed": true
+        "duration": 7
       },
       {
         "start": ["2026-05-23"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -686,10 +533,7 @@
     "schedule": [
       {
         "start": ["2026-03-24", "2026-04-21"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -699,10 +543,7 @@
     "schedule": [
       {
         "start": ["2026-04-14", "2026-05-26"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -712,10 +553,7 @@
     "schedule": [
       {
         "start": ["2026-04-28"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -725,10 +563,7 @@
     "schedule": [
       {
         "start": ["2026-05-26"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 8,
-        "timed": true
+        "duration": 8
       }
     ]
   },
@@ -738,10 +573,7 @@
     "schedule": [
       {
         "start": ["2026-06-03"],
-        "startTime": "00:00",
-        "endTime": "22:00",
-        "duration": 7,
-        "timed": true
+        "duration": 7
       }
     ]
   }
