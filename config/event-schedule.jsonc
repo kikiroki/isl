@@ -537,5 +537,23 @@
         "duration": 8
       }
     ]
+  },
+  // 티어 도전
+  "major-uc-6": {
+    "schedule": [
+      {
+        "start": ["2026-07-01"],
+        "duration": 25
+      }
+    ]
+  },
+  // 악룡의 결혼식 대작전
+  "major-uc-7": {
+    "schedule": [
+      {
+        "start": ["2026-07-01"],
+        "duration": 21
+      }
+    ]
   }
 }
