@@ -71,12 +71,11 @@
       },
       {
         "start": "2026-06-04",
-        "duration": 7,
-        "repeat": 26
+        "duration": 7
       }
     ]
   },
-  // 가자! 낚시하러!
+  // ❓가자! 낚시하러!
   "regular-9": {
     "description": "반복 일정 확인중입니다.",
     "schedule": [
