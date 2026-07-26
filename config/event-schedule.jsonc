@@ -580,5 +580,23 @@
         "duration": 12
       }
     ]
+  },
+  // 버섯 모험
+  "major-uc-8": {
+    "schedule": [
+      {
+        "start": ["2026-07-31"],
+        "duration": 8
+      }
+    ]
+  },
+  // 붉은 달 환상곡
+  "major-uc-9": {
+    "schedule": [
+      {
+        "start": ["2026-07-31"],
+        "duration": 8
+      }
+    ]
   }
 }
